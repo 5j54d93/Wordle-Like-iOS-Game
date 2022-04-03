@@ -7,18 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9C222DB927F362C600E07244 /* TitleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DB827F362C600E07244 /* TitleView.swift */; };
+		9C222DBB27F364F700E07244 /* GameTypeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DBA27F364F700E07244 /* GameTypeView.swift */; };
+		9C222DBD27F367C900E07244 /* GameGridsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DBC27F367C900E07244 /* GameGridsView.swift */; };
+		9C222DBF27F36DE900E07244 /* KeyBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DBE27F36DE900E07244 /* KeyBoardView.swift */; };
+		9C222DC127F3840700E07244 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DC027F3840700E07244 /* ColorExtension.swift */; };
+		9C222DC327F384DC00E07244 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DC227F384DC00E07244 /* SettingsView.swift */; };
+		9C222DC527F411FA00E07244 /* Wordle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C222DC427F411FA00E07244 /* Wordle.swift */; };
 		9C86990A27F35DDE00D602A6 /* Wordle_Like_iOS_GameApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C86990927F35DDE00D602A6 /* Wordle_Like_iOS_GameApp.swift */; };
 		9C86990C27F35DDE00D602A6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C86990B27F35DDE00D602A6 /* ContentView.swift */; };
 		9C86990E27F35DDF00D602A6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C86990D27F35DDF00D602A6 /* Assets.xcassets */; };
 		9C86991127F35DDF00D602A6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9C86991027F35DDF00D602A6 /* Preview Assets.xcassets */; };
+		9CB0E7ED27F45564008377A1 /* ResultView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CB0E7EC27F45564008377A1 /* ResultView.swift */; };
+		9CC935F627F49C2E004BC1C7 /* HowToPlayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC935F527F49C2E004BC1C7 /* HowToPlayView.swift */; };
+		9CC935F827F4B64A004BC1C7 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC935F727F4B649004BC1C7 /* SafariView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		9C86990627F35DDE00D602A6 /* Wordle-Like-iOS-Game.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wordle-Like-iOS-Game.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C222DB827F362C600E07244 /* TitleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TitleView.swift; sourceTree = "<group>"; };
+		9C222DBA27F364F700E07244 /* GameTypeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameTypeView.swift; sourceTree = "<group>"; };
+		9C222DBC27F367C900E07244 /* GameGridsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameGridsView.swift; sourceTree = "<group>"; };
+		9C222DBE27F36DE900E07244 /* KeyBoardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyBoardView.swift; sourceTree = "<group>"; };
+		9C222DC027F3840700E07244 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		9C222DC227F384DC00E07244 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		9C222DC427F411FA00E07244 /* Wordle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wordle.swift; sourceTree = "<group>"; };
+		9C86990627F35DDE00D602A6 /* Wordle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Wordle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C86990927F35DDE00D602A6 /* Wordle_Like_iOS_GameApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wordle_Like_iOS_GameApp.swift; sourceTree = "<group>"; };
 		9C86990B27F35DDE00D602A6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9C86990D27F35DDF00D602A6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9C86991027F35DDF00D602A6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9CB0E7EC27F45564008377A1 /* ResultView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultView.swift; sourceTree = "<group>"; };
+		9CC935F527F49C2E004BC1C7 /* HowToPlayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HowToPlayView.swift; sourceTree = "<group>"; };
+		9CC935F727F4B649004BC1C7 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,7 +63,7 @@
 		9C86990727F35DDE00D602A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9C86990627F35DDE00D602A6 /* Wordle-Like-iOS-Game.app */,
+				9C86990627F35DDE00D602A6 /* Wordle.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -53,6 +73,16 @@
 			children = (
 				9C86990927F35DDE00D602A6 /* Wordle_Like_iOS_GameApp.swift */,
 				9C86990B27F35DDE00D602A6 /* ContentView.swift */,
+				9C222DB827F362C600E07244 /* TitleView.swift */,
+				9C222DBA27F364F700E07244 /* GameTypeView.swift */,
+				9C222DBC27F367C900E07244 /* GameGridsView.swift */,
+				9C222DBE27F36DE900E07244 /* KeyBoardView.swift */,
+				9CB0E7EC27F45564008377A1 /* ResultView.swift */,
+				9C222DC227F384DC00E07244 /* SettingsView.swift */,
+				9CC935F527F49C2E004BC1C7 /* HowToPlayView.swift */,
+				9CC935F727F4B649004BC1C7 /* SafariView.swift */,
+				9C222DC427F411FA00E07244 /* Wordle.swift */,
+				9C222DC027F3840700E07244 /* ColorExtension.swift */,
 				9C86990D27F35DDF00D602A6 /* Assets.xcassets */,
 				9C86990F27F35DDF00D602A6 /* Preview Content */,
 			);
@@ -84,7 +114,7 @@
 			);
 			name = "Wordle-Like-iOS-Game";
 			productName = "Wordle-Like-iOS-Game";
-			productReference = 9C86990627F35DDE00D602A6 /* Wordle-Like-iOS-Game.app */;
+			productReference = 9C86990627F35DDE00D602A6 /* Wordle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -137,8 +167,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C222DC527F411FA00E07244 /* Wordle.swift in Sources */,
+				9C222DBB27F364F700E07244 /* GameTypeView.swift in Sources */,
+				9C222DC327F384DC00E07244 /* SettingsView.swift in Sources */,
+				9CC935F627F49C2E004BC1C7 /* HowToPlayView.swift in Sources */,
+				9CC935F827F4B64A004BC1C7 /* SafariView.swift in Sources */,
 				9C86990C27F35DDE00D602A6 /* ContentView.swift in Sources */,
+				9C222DBD27F367C900E07244 /* GameGridsView.swift in Sources */,
+				9C222DBF27F36DE900E07244 /* KeyBoardView.swift in Sources */,
 				9C86990A27F35DDE00D602A6 /* Wordle_Like_iOS_GameApp.swift in Sources */,
+				9CB0E7ED27F45564008377A1 /* ResultView.swift in Sources */,
+				9C222DC127F3840700E07244 /* ColorExtension.swift in Sources */,
+				9C222DB927F362C600E07244 /* TitleView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -281,7 +321,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.Ricky-Chuang.Wordle-Like-iOS-Game";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Wordle;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +350,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "edu.Ricky-Chuang.Wordle-Like-iOS-Game";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Wordle;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
