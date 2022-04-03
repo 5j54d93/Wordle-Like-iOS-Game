@@ -14,7 +14,7 @@
 
 > **iOS**：iPhone 13 Pro Max
 
-
+<img src="https://github.com/5j54d93/Wordle-Like-iOS-Game/blob/main/.github/assets/Game.png" width='25%' height='100%'/><img src="https://github.com/5j54d93/Wordle-Like-iOS-Game/blob/main/.github/assets/Result.png" width='25%' height='100%'/><img src="https://github.com/5j54d93/Wordle-Like-iOS-Game/blob/main/.github/assets/Help.png" width='25%' height='100%'/><img src="https://github.com/5j54d93/Wordle-Like-iOS-Game/blob/main/.github/assets/Settings.png" width='25%' height='100%'/>
 
 ## How To Play
 
